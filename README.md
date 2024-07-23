@@ -12,7 +12,7 @@ Passionate CS student with a focus in Information Systems, Software Engineering,
 - 📚 Trying to learn something new every day!
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,flask,flutter,java,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,flask,flutter,java,react,flutter,spring)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
