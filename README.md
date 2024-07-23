@@ -19,6 +19,7 @@ Passionate CS student with a focus in Information Systems, Software Engineering,
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React.
 - Trying to get a better grasp of Back End topics
+- Trying to understand Flutter and Mobile Development
 
 ## 📬 Get in Touch
 
