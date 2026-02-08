@@ -3,8 +3,6 @@
 
 Passionate CS student turned Engineer with a focus in Information Systems, Software Engineering, and AI. I'm trying not to get too addicted to coffee and explore the physical and digital world.
 
-![Philipp's Stats](https://github-readme-stats.vercel.app/api?username=off3line&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🏦 Working as an Engineer at a financial institution.
